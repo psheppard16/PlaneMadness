@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=image\ angleD
+comment0.target=java.awt.image.BufferedImage\ rotateImage(java.awt.image.BufferedImage,\ double)
+comment1.params=xSize\ ySize\ corners\ angleD
+comment1.target=java.util.ArrayList\ rotateCorners(double,\ double,\ java.util.ArrayList,\ double)
+comment2.params=lowerBound\ upperBound
+comment2.target=int\ random(int,\ int)
+comment2.text=\n\ Generates\ a\ random\ number\ with\ a\ given\ upper\ and\ lower\ bound\n\ @return\ the\ random\ number\n
+numComments=3

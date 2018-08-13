@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=fileNumber
+comment0.target=PlayerData(int)
+comment1.params=
+comment1.target=void\ updateFile()
+comment2.params=
+comment2.target=void\ updateData()
+comment3.params=startingLine\ linesToRead
+comment3.target=java.util.ArrayList\ readFile(int,\ int)
+comment3.text=\n\ Reads\ a\ file\ from\ a\ starting\ point\ for\ a\ desired\ number\ of\ lines.\n\ @return\ the\ content\ of\ the\ file\ in\ an\ arrayList.\n
+comment4.params=text
+comment4.target=void\ writeToFile(java.lang.String)
+comment4.text=\n\ Adds\ one\ line\ of\ text\ onto\ the\ end\ of\ a\ file.\n
+comment5.params=file
+comment5.target=void\ writeToFile(java.util.ArrayList)
+comment5.text=\n\ Rewrites\ a\ file\ with\ the\ content\ of\ an\ array.\n
+numComments=6

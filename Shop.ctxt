@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=window\ saveScreen
+comment0.target=Shop(Window,\ SaveScreen)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ equipItem()
+comment4.params=
+comment4.target=void\ buyItem()
+numComments=5

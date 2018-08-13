@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ saveScreen
+comment0.target=Player(int,\ int,\ SaveScreen)
+comment1.params=
+comment1.target=int\ xSize()
+comment2.params=
+comment2.target=int\ ySize()
+comment3.params=x\ y\ corners2
+comment3.target=boolean\ collideCheck(double,\ double,\ java.util.ArrayList)
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ gameLoop\ coinType
+comment0.target=Coin(double,\ double,\ GameLoop,\ java.lang.String)
+comment1.params=xPos\ yPos\ coin
+comment1.target=void\ Bullet(double,\ double,\ Coin)
+comment2.params=
+comment2.target=int\ xSize()
+comment3.params=
+comment3.target=int\ ySize()
+comment4.params=x\ y\ corners2
+comment4.target=boolean\ collideCheck(double,\ double,\ java.util.ArrayList)
+comment5.params=
+comment5.target=void\ move()
+comment6.params=playerX\ playerY\ magnetD\ magnetS
+comment6.target=void\ moveMagnet(int,\ int,\ int,\ int)
+numComments=7

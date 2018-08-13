@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=xPos\ enemyType\ amount\ initialDelay\ timeInterval\ xShift
+comment0.target=SpawnGroup(int,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ spawnProcedure()
+numComments=2
